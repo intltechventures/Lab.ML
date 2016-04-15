@@ -16,7 +16,11 @@ ML Data Resources
 
 
 References
+* [MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
 
+
+Tutorials / Online Courses
+* [Artificial Intelligence, MIT Open Courseware] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 
 
 Interesting Articles
