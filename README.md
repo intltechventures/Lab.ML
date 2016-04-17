@@ -24,4 +24,9 @@ Tutorials / Online Courses
 
 
 Interesting Articles
-* [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972] (http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html)
+* [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972] (http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
+* [XGBoost: A Scalable Tree Boosting System] (http://dmlc.cs.washington.edu/xgboost.html)
+	* http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html  
+	* https://github.com/dmlc/xgboost
+
+
