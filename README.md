@@ -49,6 +49,8 @@ ML Software Resources
 Github Resources
 * [Distributed (Deep) Machine Learning Community] (https://github.com/dmlc)
 * https://github.com/dmlc/xgboost
+* https://github.com/tensorflow/tensorflow
+
 
 
 
