@@ -24,7 +24,7 @@ Tutorials / Online Courses
 
 
 University Machine Learning Programs
-[MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
+* [MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)] (http://priml.upenn.edu/Main/HomePage)
 		* http://priml.upenn.edu/Main/Resources
