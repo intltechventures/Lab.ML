@@ -13,10 +13,10 @@ Recommended Books
 
 ML Data Resources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
-
+* http://www.seas.upenn.edu/~taskar/ocr/
 
 References
-* [MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
+* 
 
 
 Tutorials / Online Courses
@@ -24,11 +24,12 @@ Tutorials / Online Courses
 
 
 University Machine Learning Programs
+[MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)] (http://priml.upenn.edu/Main/HomePage)
 		* http://priml.upenn.edu/Main/Resources
 	* [The Warrent Center for Network & Data Sciences] (http://warrencenter.upenn.edu/)	
-	* [GRAPS Lab] (https://www.grasp.upenn.edu/)
+	* [GRASP Lab] (https://www.grasp.upenn.edu/)
 	* [CIS 520 Machine Learning - 2015] (https://alliance.seas.upenn.edu/~cis520/wiki/)
 	* [CIS 521 - Artificial Intelligence Spring 2016] (http://www.seas.upenn.edu/~cis521/)
 	* [CIS 620 - Advanced Topics in AI - Spring 07 Probabilistic Graphical Models] (http://www.seas.upenn.edu/~cis620/)
