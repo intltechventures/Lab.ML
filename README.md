@@ -8,7 +8,7 @@ News Sources
 Recommended Books
 * Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig
 * Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest
-
+* [Recommender Systems, by Aggaral, Charu C.] (http://www.springer.com/gp/book/9783319296579)
 
 
 ML Data Resources
