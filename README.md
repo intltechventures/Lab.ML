@@ -3,6 +3,7 @@
 News Sources
 * http://www.kdnuggets.com
 * https://www.reddit.com/r/MachineLearning
+* [Neural Information Processing Systems Conference (NIPS) Proceedings] (http://papers.nips.cc/)
 
 
 Recommended Books
@@ -41,7 +42,6 @@ University Machine Learning Programs
 	* [Probabilistic Graphical Models] (http://pgm.stanford.edu/)
 
 
-
 ML Software Resources
 * http://mloss.org/community/
 
@@ -50,8 +50,8 @@ Github Resources
 * [Distributed (Deep) Machine Learning Community] (https://github.com/dmlc)
 * https://github.com/dmlc/xgboost
 * https://github.com/tensorflow/tensorflow
-
-
+* https://github.com/apache/incubator-singa
+	* [Apache Singa - A General Distributed Deep Learning Platform] (http://singa.apache.org)
 
 
 Interesting Articles
@@ -59,7 +59,7 @@ Interesting Articles
 * [XGBoost: A Scalable Tree Boosting System] (http://dmlc.cs.washington.edu/xgboost.html)
 	* http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
 * [Detrimental Point Processes, Alex Kulesza & Ben Traskar] (http://homes.cs.washington.edu/~taskar/pubs/dpp_tut.pdf)
-
+* [ImageNet Classification with Deep Convolutional Natural Networks] (http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 
 
 Researchers in ML
