@@ -4,6 +4,7 @@ News Sources
 * http://www.kdnuggets.com
 * https://www.reddit.com/r/MachineLearning
 * [Neural Information Processing Systems Conference (NIPS) Proceedings] (http://papers.nips.cc/)
+* http://www.analyticsvidhya.com/ 
 
 
 Recommended Books
@@ -60,7 +61,7 @@ Interesting Articles
 	* http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
 * [Detrimental Point Processes, Alex Kulesza & Ben Traskar] (http://homes.cs.washington.edu/~taskar/pubs/dpp_tut.pdf)
 * [ImageNet Classification with Deep Convolutional Natural Networks] (http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-
+* [Difference between Machine Learning & Statistical Modeling] (http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
 
 Researchers in ML
 * Tianqi Chen - http://homes.cs.washington.edu/~tqchen/
