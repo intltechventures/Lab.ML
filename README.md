@@ -46,6 +46,7 @@ University Machine Learning Programs
 
 ML Software Resources
 * http://mloss.org/community/
+* http://nbviewer.jupyter.org/
 
 
 Github Resources
