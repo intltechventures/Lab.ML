@@ -11,6 +11,7 @@ Recommended Books
 * Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig
 * Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest
 * [Recommender Systems, by Aggaral, Charu C.] (http://www.springer.com/gp/book/9783319296579)
+* [Probabilistic Programming and Bayesian methods for Hackers] (http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
 
 
 ML Data Resources
