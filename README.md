@@ -49,7 +49,7 @@ University Machine Learning Programs
 ML Software Resources
 * http://mloss.org/community/
 * http://nbviewer.jupyter.org/
-
+	* http://jupyter.readthedocs.io/en/latest/index.html
 
 Github Resources
 * [Distributed (Deep) Machine Learning Community] (https://github.com/dmlc)
