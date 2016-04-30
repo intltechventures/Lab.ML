@@ -5,7 +5,7 @@ News Sources
 * https://www.reddit.com/r/MachineLearning
 * [Neural Information Processing Systems Conference (NIPS) Proceedings] (http://papers.nips.cc/)
 * http://www.analyticsvidhya.com/ 
-
+* http://googleresearch.blogspot.com
 
 Recommended Books
 * Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig
@@ -57,7 +57,7 @@ Github Resources
 * https://github.com/tensorflow/tensorflow
 * https://github.com/apache/incubator-singa
 	* [Apache Singa - A General Distributed Deep Learning Platform] (http://singa.apache.org)
-
+* https://github.com/fchollet/keras
 
 Interesting Articles
 * [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972] (http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
