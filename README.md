@@ -1,19 +1,25 @@
 # Lab.ML
 
-News Sources
+ML News Sources
 * http://www.kdnuggets.com
 * https://www.reddit.com/r/MachineLearning
 * [Neural Information Processing Systems Conference (NIPS) Proceedings] (http://papers.nips.cc/)
 * http://www.analyticsvidhya.com/ 
 * http://googleresearch.blogspot.com
 
-Recommended Books
+
+ML Conferences
+* https://spark-summit.org/
+
+
+Recommended ML Books
 * Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig
 * Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest
 * [Recommender Systems, by Aggaral, Charu C.] (http://www.springer.com/gp/book/9783319296579)
 * [Probabilistic Programming and Bayesian methods for Hackers] (http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
 	* https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 	* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
+
 
 ML Data Resources
 * [Microsoft Sequential Image Narrative Dataset (SIND)] (http://www.sind.ai/)
@@ -22,7 +28,7 @@ ML Data Resources
 * [The Penn Treebank Project] (https://www.cis.upenn.edu/~treebank/)
 
 
-References
+ML References
 * 
 
 
@@ -30,7 +36,7 @@ Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 
 
-University Machine Learning Programs
+University Machine Learning Labs / Programs
 * [MIT Computer Science and Artificial Intelligence Laboratory] (http://www.csail.mit.edu/) 
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)] (http://priml.upenn.edu/Main/HomePage)
@@ -46,6 +52,7 @@ University Machine Learning Programs
 
 * [Stanford Artificial Intelligence Laboratory] (http://ai.standford.edu)
 	* [Probabilistic Graphical Models] (http://pgm.stanford.edu/)
+* [UC Berkeley amplab] (https://amplab.cs.berkeley.edu/)
 
 
 ML Software Resources
@@ -53,13 +60,15 @@ ML Software Resources
 * http://nbviewer.jupyter.org/
 	* http://jupyter.readthedocs.io/en/latest/index.html
 
-Github Resources
+
+Interesting Github ML Resources
 * [Distributed (Deep) Machine Learning Community] (https://github.com/dmlc)
 * https://github.com/dmlc/xgboost
 * https://github.com/tensorflow/tensorflow
 * https://github.com/apache/incubator-singa
 	* [Apache Singa - A General Distributed Deep Learning Platform] (http://singa.apache.org)
 * https://github.com/fchollet/keras
+
 
 Interesting Articles
 * [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972] (http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
@@ -69,7 +78,8 @@ Interesting Articles
 * [ImageNet Classification with Deep Convolutional Natural Networks] (http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 * [Difference between Machine Learning & Statistical Modeling] (http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
 
-Researchers in ML
+
+Interesting Researchers in ML
 * Tianqi Chen - http://homes.cs.washington.edu/~tqchen/
 * Ben Taskar (deceased, 2013) - http://homes.cs.washington.edu/~taskar/
 
