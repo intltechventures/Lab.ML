@@ -72,6 +72,7 @@ Interesting Github ML Resources
 
 
 Interesting Articles
+* [Google Deep Mind Moves to Tensor Flow] (http://googleresearch.blogspot.co.nz/2016/04/deepmind-moves-to-tensorflow.html)
 * [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972] (http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
 * [XGBoost: A Scalable Tree Boosting System] (http://dmlc.cs.washington.edu/xgboost.html)
 	* http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
