@@ -80,7 +80,7 @@ Interesting Articles
 * [ImageNet Classification with Deep Convolutional Natural Networks] (http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
 * [Difference between Machine Learning & Statistical Modeling] (http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
 * [databricks: The Unreasonable Effectiveness of Deep Learning on Spark] (https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
-
+* [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python] (http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
 
 Interesting Researchers in ML
 * Tianqi Chen - http://homes.cs.washington.edu/~tqchen/
