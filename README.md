@@ -81,6 +81,8 @@ Interesting Articles
 * [Difference between Machine Learning & Statistical Modeling] (http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
 * [databricks: The Unreasonable Effectiveness of Deep Learning on Spark] (https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
 * [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python] (http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
+* [50+ Data Science and Machine Learning Cheat Sheets] (http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+
 
 Interesting Researchers in ML
 * Tianqi Chen - http://homes.cs.washington.edu/~tqchen/
