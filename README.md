@@ -82,6 +82,7 @@ Interesting Articles
 * [databricks: The Unreasonable Effectiveness of Deep Learning on Spark] (https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
 * [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python] (http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
 * [50+ Data Science and Machine Learning Cheat Sheets] (http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+* [How to Build ML with Google Prediction API] (http://www.programmableweb.com/news/how-to-build-machine-learning-google-prediction-api/how-to/2015/05/27)
 
 
 Interesting Researchers in ML
