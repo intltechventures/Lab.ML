@@ -26,6 +26,7 @@ ML Data Resources
 * http://www.seas.upenn.edu/~taskar/ocr/
 * [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
 * [The Penn Treebank Project] (https://www.cis.upenn.edu/~treebank/)
+* https://data.world/
 
 
 ML References
