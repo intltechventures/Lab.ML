@@ -15,3 +15,7 @@ Github
 Articles
 * https://cloudplatform.googleblog.com/2016/05/Google-supercharges-machine-learning-tasks-with-custom-chip.html
 * http://www.bloomberg.com/news/articles/2016-07-21/google-sprints-ahead-in-ai-building-blocks-leaving-rivals-wary
+
+TensorFlow Implementation Ideas
+- Poker AI
+
