@@ -70,7 +70,8 @@ Interesting Github ML Resources
 * https://github.com/apache/incubator-singa
 	* [Apache Singa - A General Distributed Deep Learning Platform] (http://singa.apache.org)
 * https://github.com/fchollet/keras
-* https://github.com/h2oai/h2o-2
+* https://github.com/h2oai/h2o-3
+
 
 
 Interesting Articles
