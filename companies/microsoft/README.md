@@ -3,6 +3,7 @@ Microsoft Machine Learning Resources
 
 
 Computational Network Toolkit (CNTK)
+* http://www.cntk.ai/
 * https://github.com/Microsoft/CNTK
 
 
