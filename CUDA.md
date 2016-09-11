@@ -9,3 +9,6 @@ NVIDIA CUDA
 GPU / Parallel Programming Educational Resources
 * https://www.udacity.com/course/intro-to-parallel-programming--cs344
 
+
+News
+* http://www.infoworld.com/article/3089871/application-virtualization/nvidia-plugin-makes-gpu-acceleration-possible-in-docker-containers.html
