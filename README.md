@@ -19,6 +19,13 @@ Recommended ML Books
 * [Probabilistic Programming and Bayesian methods for Hackers] (http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
 	* https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 	* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
+* http://ciml.info/
+* http://statweb.stanford.edu/~tibs/ElemStatLearn/
+* http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+* http://www.gaussianprocess.org/gpml/chapters/
+* http://www.intechopen.com/books/machine_learning
+
+
 
 
 ML Data Resources
