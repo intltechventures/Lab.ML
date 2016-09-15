@@ -6,6 +6,8 @@ ML News Sources
 * [Neural Information Processing Systems Conference (NIPS) Proceedings] (http://papers.nips.cc/)
 * http://www.analyticsvidhya.com/ 
 * http://googleresearch.blogspot.com
+* http://blog.revolutionanalytics.com/
+
 
 
 ML Conferences
@@ -93,6 +95,7 @@ Interesting Articles
 * [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python] (http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
 * [50+ Data Science and Machine Learning Cheat Sheets] (http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 * [How to Build ML with Google Prediction API] (http://www.programmableweb.com/news/how-to-build-machine-learning-google-prediction-api/how-to/2015/05/27)
+* http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html
 
 
 Interesting Researchers in ML
