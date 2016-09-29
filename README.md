@@ -9,6 +9,9 @@ ML News Sources
 * http://blog.revolutionanalytics.com/
 
 
+Consortiums
+* http://www.partnershiponai.org/
+
 
 ML Conferences
 * https://spark-summit.org/
