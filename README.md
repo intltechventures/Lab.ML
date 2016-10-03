@@ -47,6 +47,8 @@ ML References
 
 Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+* https://gym.openai.com/
+
 
 
 University Machine Learning Labs / Programs
