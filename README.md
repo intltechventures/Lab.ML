@@ -102,6 +102,10 @@ Interesting Articles
 
 
 Interesting Researchers in ML
-* Tianqi Chen - http://homes.cs.washington.edu/~tqchen/
-* Ben Taskar (deceased, 2013) - http://homes.cs.washington.edu/~taskar/
-
+* Tianqi Chen
+  * http://homes.cs.washington.edu/~tqchen/
+* Ben Taskar (deceased, 2013)
+  * http://homes.cs.washington.edu/~taskar/
+* Brandon Rohr
+  * http://brohrer.github.io/
+  * https://twitter.com/_brohrer_
