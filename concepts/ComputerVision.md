@@ -3,7 +3,7 @@
 Computer Vision Libraries and Frameworks
 * http://opencv.org/
   * https://github.com/opencv/opencv
-
+  * https://github.com/grace-/opencv-3.0.0-cvpr
 
 Computer Vision Books
 * https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/1491937998
