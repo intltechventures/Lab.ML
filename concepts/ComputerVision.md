@@ -1,4 +1,7 @@
 
+Data Resources
+* http://www.image-net.org/
+
 
 Computer Vision Libraries and Frameworks
 * http://opencv.org/
@@ -8,6 +11,9 @@ Computer Vision Libraries and Frameworks
 Computer Vision Books
 * https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library/dp/1491937998
 
+Research Papers
+* Deep Residual Learning for Image Recognition
+  * https://arxiv.org/abs/1512.03385
 
 
 Interesting Researchers
