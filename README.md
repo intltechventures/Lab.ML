@@ -71,7 +71,7 @@ University Machine Learning Labs / Programs
 * [Stanford Artificial Intelligence Laboratory] (http://ai.standford.edu)
 	* [Probabilistic Graphical Models] (http://pgm.stanford.edu/)
 * [UC Berkeley amplab] (https://amplab.cs.berkeley.edu/)
-
+* https://cs94si.wordpress.com/syllabus/
 
 ML Software Resources
 * http://mloss.org/community/
