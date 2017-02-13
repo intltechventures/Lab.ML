@@ -7,6 +7,8 @@ ML News Sources
 * http://www.analyticsvidhya.com/ 
 * http://googleresearch.blogspot.com
 * http://blog.revolutionanalytics.com/
+* http://www.datasciencecentral.com/
+
 
 
 Consortiums
