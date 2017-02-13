@@ -41,6 +41,7 @@ ML Data Resources
 * [Global Health Observatory data repository] (http://apps.who.int/gho/data/node.main)
 * [The Penn Treebank Project] (https://www.cis.upenn.edu/~treebank/)
 * https://data.world/
+* https://waterdata.usgs.gov/nwis
 
 
 ML References
