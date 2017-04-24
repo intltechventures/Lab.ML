@@ -19,3 +19,9 @@ Articles
 TensorFlow Implementation Ideas
 - Poker AI
 
+
+
+Interesting News
+* 2017
+  * https://www.infoq.com/news/2017/04/tpu-architecture
+
