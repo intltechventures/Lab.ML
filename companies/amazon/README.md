@@ -13,4 +13,14 @@ Related Articles
 Deep Learning AMIs
 * https://aws.amazon.com/marketplace/pp/B01M0AXXQB
 
+Interesting Articles
+* 2017
+  * https://www.usatoday.com/story/tech/talkingtech/2017/05/02/whispering-alexa-just-start-says-amazon-head-scientist/101171340/
+
+
+
+
+Notable AI Thought Leaders
+* Rohit Prasad, Amazon’s head scientist for Alexa. 
+  * https://www.linkedin.com/in/rohit-prasad-4a46251/ 
 
