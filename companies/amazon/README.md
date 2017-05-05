@@ -23,4 +23,7 @@ Interesting Articles
 Notable AI Thought Leaders
 * Rohit Prasad, Amazon’s head scientist for Alexa. 
   * https://www.linkedin.com/in/rohit-prasad-4a46251/ 
+* Soo-Min Kim, Manager, Machine Learning
+  * https://www.linkedin.com/in/soo-min-kim-hiring-b2a99414/
+
 
