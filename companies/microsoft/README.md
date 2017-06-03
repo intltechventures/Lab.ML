@@ -6,6 +6,7 @@ Microsoft Machine Learning Resources
 Computational Network Toolkit (CNTK)
 * http://www.cntk.ai/
 * https://github.com/Microsoft/CNTK
+* https://docs.microsoft.com/en-us/cognitive-toolkit/Examples
 
 
 Azure Resources
