@@ -6,6 +6,11 @@ Google Machine Learning Resources
 * https://www.tensorflow.org/
 
 
+News Resources
+* https://www.blog.google/topics/machine-learning/
+
+
+
 New Articles
 * 2017
   * http://www.dailymail.co.uk/news/article-3976052/Google-says-artificial-intelligence-taught-translate-languages-doesn-t-know.html
