@@ -17,3 +17,8 @@ News
 
 Intel Neon
 * https://github.com/NervanaSystems/neon
+
+
+
+Twitter Profiles
+* https://twitter.com/intelnervana
