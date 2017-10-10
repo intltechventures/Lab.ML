@@ -49,6 +49,8 @@ ML Data Resources
 
 ML References
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/ 
+* https://github.com/kailashahirwar/cheatsheets-ai
+
 
 
 Tutorials / Online Courses
