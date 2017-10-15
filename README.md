@@ -20,31 +20,24 @@ ML Conferences
 
 
 Recommended ML Books
-* Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig
-* Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest
+* Deep Learning, by Ian Goodfellow, et al
+	* http://www.deeplearningbook.org/
+	* https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618 
+* [Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/)
 * [Recommender Systems, by Aggaral, Charu C.](http://www.springer.com/gp/book/9783319296579)
-* [Probabilistic Programming and Bayesian methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
-	* https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
-	* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
-* http://ciml.info/
-* http://statweb.stanford.edu/~tibs/ElemStatLearn/
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 * http://www.gaussianprocess.org/gpml/chapters/
 * http://www.intechopen.com/books/machine_learning
 
 
+Suggested Supplemental Books
+* [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
+* [Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
+* http://statweb.stanford.edu/~tibs/ElemStatLearn/
+* [Probabilistic Programming and Bayesian methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
+	* https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+	* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
 
-
-ML Data Resources
-* [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
-* http://www.seas.upenn.edu/~taskar/ocr/
-* [Global Health Observatory data repository](http://apps.who.int/gho/data/node.main)
-* [The Penn Treebank Project](https://www.cis.upenn.edu/~treebank/)
-* https://data.world/
-* https://waterdata.usgs.gov/nwis
-* https://github.com/WhiteHouse/budgetdata/tree/2017
-* https://wonder.cdc.gov/wonder/sci_data/sci_data.asp
-* https://www.fordgobike.com/system-data
 
 
 ML References
@@ -52,10 +45,10 @@ ML References
 * https://github.com/kailashahirwar/cheatsheets-ai
 
 
-
 Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * https://gym.openai.com/
+* http://ciml.info/
 * Machine Learning for Developers
   * http://linkis.com/xyclade.github.io/DyY93
 
@@ -78,6 +71,8 @@ University Machine Learning Labs / Programs
 	* [Probabilistic Graphical Models](http://pgm.stanford.edu/)
 * [UC Berkeley amplab](https://amplab.cs.berkeley.edu/)
 * https://cs94si.wordpress.com/syllabus/
+
+
 
 ML Software Resources
 * http://mloss.org/community/
