@@ -93,17 +93,21 @@ Interesting Github ML Resources
 
 
 Interesting Articles
-* [Google Deep Mind Moves to Tensor Flow](http://googleresearch.blogspot.co.nz/2016/04/deepmind-moves-to-tensorflow.html)
-* [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972](http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
-* [XGBoost: A Scalable Tree Boosting System](http://dmlc.cs.washington.edu/xgboost.html)
-	* http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
-* [Detrimental Point Processes, Alex Kulesza & Ben Traskar](http://homes.cs.washington.edu/~taskar/pubs/dpp_tut.pdf)
-* [ImageNet Classification with Deep Convolutional Natural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
-* [Difference between Machine Learning & Statistical Modeling](http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
-* [databricks: The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
-* [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python](http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
-* [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
-* [How to Build ML with Google Prediction API](http://www.programmableweb.com/news/how-to-build-machine-learning-google-prediction-api/how-to/2015/05/27)
+* 2017
+  * [https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists](...universities are losing their best AI scientists)
+* 2016
+  * [Google Deep Mind Moves to Tensor Flow](http://googleresearch.blogspot.co.nz/2016/04/deepmind-moves-to-tensorflow.html)
+  * [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972](http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
+  * [XGBoost: A Scalable Tree Boosting System](http://dmlc.cs.washington.edu/xgboost.html)
+    * http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
+  * [Detrimental Point Processes, Alex Kulesza & Ben Traskar](http://homes.cs.washington.edu/~taskar/pubs/dpp_tut.pdf)
+  * [ImageNet Classification with Deep Convolutional Natural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+* 2015
+  * [Difference between Machine Learning & Statistical Modeling](http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
+  * [databricks: The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html) - 2016 (move up)
+  * [The Hitchhiker's Guide to Data Sciene, Machine Learning, R, Python](http://www.datasciencecentral.com/profiles/blogs/hitchhiker-s-guide-to-data-science-machine-learning-r-python)
+  * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+  * [How to Build ML with Google Prediction API](http://www.programmableweb.com/news/how-to-build-machine-learning-google-prediction-api/how-to/2015/05/27)
 * http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html
 
 
