@@ -119,3 +119,8 @@ Interesting Researchers in ML
 * Brandon Rohr
   * http://brohrer.github.io/
   * https://twitter.com/_brohrer_
+
+
+AI/ML Focused Twitter Accounts
+* https://twitter.com/shivon
+
