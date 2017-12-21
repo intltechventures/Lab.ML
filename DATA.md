@@ -10,3 +10,5 @@ Useful ML Data Resources
 * https://wonder.cdc.gov/wonder/sci_data/sci_data.asp
 * https://www.fordgobike.com/system-data
 * http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
+* https://codx.ca/
+
