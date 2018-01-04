@@ -12,4 +12,7 @@ Useful ML Data Resources
 * http://phl.upr.edu/projects/habitable-exoplanets-catalog/data/database
 * https://codx.ca/
   * https://twitter.com/CODX
-  
+ 
+
+ Data Exchange Formats
+ * http://onnx.ai/
