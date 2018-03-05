@@ -6,7 +6,8 @@ Interesting ML News Resources
 * https://medium.com/ai%C2%B3-theory-practice-business
 * http://www.shivonzilis.com/
 
-
+* 2018
+  * https://www.geekwire.com/2018/allen-brain-institute-shares-huge-database-computerized-neurons-work/
 * 2017
   * https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-3-0
 
