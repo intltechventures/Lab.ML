@@ -51,6 +51,7 @@ Tutorials / Online Courses
 * http://ciml.info/
 * Machine Learning for Developers
   * http://linkis.com/xyclade.github.io/DyY93
+* https://www.aiworkbox.com/lessons
 
 
 University Machine Learning Labs / Programs
