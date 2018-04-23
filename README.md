@@ -23,6 +23,7 @@ Recommended ML Books
 * Deep Learning, by Ian Goodfellow, et al
 	* http://www.deeplearningbook.org/
 	* https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618 
+    * https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
 * [Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/)
 * [Recommender Systems, by Aggaral, Charu C.](http://www.springer.com/gp/book/9783319296579)
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
