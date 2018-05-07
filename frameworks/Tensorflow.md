@@ -22,6 +22,9 @@ TensorFlow Implementation Ideas
 
 
 Interesting News
+* 2018
+  * https://www.infoworld.com/article/3237304/machine-learning/whats-new-in-tensorflow-machine-learning.html
 * 2017
   * https://www.infoq.com/news/2017/04/tpu-architecture
+* 2016
 
