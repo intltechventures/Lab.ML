@@ -1,6 +1,9 @@
 
 Useful ML Data Resources
-* [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
+* Microsoft
+  * [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
+  * News: [Microsfot Research Open Data Now Available](https://www.microsoft.com/en-us/research/blog/announcing-microsoft-research-open-data-datasets-by-microsoft-research-now-available-in-the-cloud/)
+    * https://msropendata.com/ 
 * http://www.seas.upenn.edu/~taskar/ocr/
 * [Global Health Observatory data repository](http://apps.who.int/gho/data/node.main)
 * [The Penn Treebank Project](https://www.cis.upenn.edu/~treebank/)
