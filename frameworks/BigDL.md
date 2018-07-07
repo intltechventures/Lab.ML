@@ -10,6 +10,7 @@ References
 * https://en.wikipedia.org/wiki/BigDL
 * https://bigdl-project.github.io/
 * https://bigdl-project.github.io/0.6.0/getting-started/
+* https://github.com/intel-analytics/BigDL
 * https://github.com/intel-analytics/BigDL-tutorials
 
 
