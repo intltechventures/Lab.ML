@@ -14,6 +14,10 @@ References
 * https://github.com/intel-analytics/BigDL-tutorials
 
 
+An intitial list of articles to read:
+* https://intltechventures.blogspot.com/2018/07/2018-07-07-saturday-researching-bigdl.html
+
+
 Articles
 * https://software.intel.com/en-us/articles/bigdl-distributed-deep-learning-on-apache-spark
 * https://software.intel.com/en-us/articles/building-large-scale-image-feature-extraction-with-bigdl-at-jdcom
