@@ -1,7 +1,7 @@
 
 Apple Machine Learning Resources
 * https://machinelearning.apple.com/
-
+* https://developer.apple.com/documentation/coreml
 
 
 
@@ -12,4 +12,6 @@ Interesting Articles
 
 
 News
-* 2018-04-21 John Giannandrea, leaving Google (AI Chief),  will run Apple’s “machine learning and A.I. strategy"
+* 2018 
+  * https://venturebeat.com/2018/08/06/how-3-developers-used-core-ml-to-run-ai-models-on-an-iphone/
+  * 2018-04-21 John Giannandrea, leaving Google (AI Chief),  will run Apple’s “machine learning and A.I. strategy"
