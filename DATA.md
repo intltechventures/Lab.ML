@@ -1,5 +1,6 @@
 
 Useful ML Data Resources
+* https://twitter.com/PyData
 * Microsoft
   * [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
   * News: [Microsfot Research Open Data Now Available](https://www.microsoft.com/en-us/research/blog/announcing-microsoft-research-open-data-datasets-by-microsoft-research-now-available-in-the-cloud/)
