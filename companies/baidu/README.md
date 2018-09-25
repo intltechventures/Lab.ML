@@ -1,4 +1,9 @@
-Baidu Machine Learning Tools
+Baidu Machine Learning Resources & Tools
+====
+
+* http://research.baidu.com/ 
+* https://twitter.com/BaiduResearch
+
 
 PaddlePaddle
 * https://github.com/baidu/paddle
