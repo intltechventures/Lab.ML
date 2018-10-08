@@ -1,7 +1,9 @@
 
+Facebook AI Resources
+====
 
 
-Github Resources
+ Resources
 * https://github.com/facebookresearch/CommAI-env
 * https://github.com/facebook/MazeBase
 
@@ -12,5 +14,8 @@ News Resources
 
 
 Interesting Articles
-* https://www.infoq.com/news/2016/10/CommAI-Train-Test-Facebook
+* 2018
+  * https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/
+* 2016 
+  * https://www.infoq.com/news/2016/10/CommAI-Train-Test-Facebook
 
