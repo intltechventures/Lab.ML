@@ -5,6 +5,8 @@ Microsoft AI/ML - Key People
 * Kevin Scott, CTO
   * https://www.linkedin.com/in/jkevinscott/
   * https://twitter.com/kevin_scott
+* Gurdeep Pall, Corporate Vice President, Business AI
+  * https://www.linkedin.com/in/gurdeep-pall-0aa639bb/
 * Eric Boyd, CVP AI Platform
   * https://www.linkedin.com/in/emboyd/
   * https://twitter.com/eric_boyd
