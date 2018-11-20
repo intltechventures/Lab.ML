@@ -53,6 +53,8 @@ Tutorials / Online Courses
 * Machine Learning for Developers
   * http://linkis.com/xyclade.github.io/DyY93
 * https://www.aiworkbox.com/lessons
+* https://www.hackerearth.com/practice/machine-learning/ 
+* https://www.kaggle.com/kernels
 
 
 University Machine Learning Labs / Programs
