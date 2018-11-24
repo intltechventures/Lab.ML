@@ -55,6 +55,8 @@ Tutorials / Online Courses
 * https://www.aiworkbox.com/lessons
 * https://www.hackerearth.com/practice/machine-learning/ 
 * https://www.kaggle.com/kernels
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
 
 
 University Machine Learning Labs / Programs
