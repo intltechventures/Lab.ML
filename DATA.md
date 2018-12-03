@@ -39,10 +39,11 @@ CRCNS (Collaborative Research in Computational Neuroscience) is a joint program 
 
 
 ### Medical Data
- * https://developer.cms.gov/
-   * https://Data.CMS.gov
-   * https://Data.Healthcare.gov
-   * https://data.medicare.gov/
-   * https://Data.Medicaid.gova
+* https://www.medicare.gov/download/downloaddb.asp
+* https://developer.cms.gov/
+  * https://Data.CMS.gov
+  * https://Data.Healthcare.gov
+  * https://data.medicare.gov/
+  * https://Data.Medicaid.gova
 
 
