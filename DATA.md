@@ -1,5 +1,8 @@
 
 Useful ML Data Resources
+====
+
+### Resources
 * https://twitter.com/PyData
 * Microsoft
   * [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
@@ -18,20 +21,28 @@ Useful ML Data Resources
   * https://twitter.com/CODX
 * http://www.parlgov.org/
 
-Allen Brain Atlas
-* http://www.brain-map.org/
-  * http://celltypes.brain-map.org/
-* http://alleninstitute.github.io/AllenSDK/
+* Allen Institute, Brain Atlas/Map, and SDK
+  * http://www.brain-map.org/
+    * http://celltypes.brain-map.org/
+  * http://alleninstitute.github.io/AllenSDK/
+
 * http://nwb.org/nwb-neurophysiology/
 
+
+### NSF/NIH
 CRCNS (Collaborative Research in Computational Neuroscience) is a joint program of NSF and NIH that supports integration of theoretical and experimental neuroscience through collaborative research projects.
 * http://crcns.org/NWB/Data_sets
 
 
- Data Exchange Formats
+### Data Exchange Formats
  * http://onnx.ai/
 
 
- Medical Data
- * https://data.medicare.gov/
+### Medical Data
+ * https://developer.cms.gov/
+   * https://Data.CMS.gov
+   * https://Data.Healthcare.gov
+   * https://data.medicare.gov/
+   * https://Data.Medicaid.gova
+
 
