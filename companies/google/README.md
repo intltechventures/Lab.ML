@@ -1,8 +1,14 @@
 
 Google Machine Learning Resources
+====
+
+* https://ai.google/research
 * https://cloud.google.com/products/machine-learning/
 * https://cloud.google.com/ml-engine/
 * https://cloud.google.com/asl/
+
+
+### TensorFlow
 * https://www.tensorflow.org/
 
 
