@@ -1,6 +1,8 @@
-# Lab.ML
+Lab.ML
+====
 
-ML News Sources
+
+### ML News Sources
 * http://www.kdnuggets.com
 * https://www.reddit.com/r/MachineLearning
 * [Neural Information Processing Systems Conference (NIPS) Proceedings](http://papers.nips.cc/)
@@ -11,15 +13,15 @@ ML News Sources
 
 
 
-Consortiums
+### Consortiums
 * http://www.partnershiponai.org/
 
 
-ML Conferences
+### ML Conferences
 * https://spark-summit.org/
 
 
-Recommended ML Books
+### Recommended ML Books
 * Deep Learning, by Ian Goodfellow, et al
 	* http://www.deeplearningbook.org/
 	* https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618 
@@ -31,7 +33,7 @@ Recommended ML Books
 * http://www.intechopen.com/books/machine_learning
 
 
-Suggested Supplemental Books
+### Suggested Supplemental Books
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
 * [Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
 * http://statweb.stanford.edu/~tibs/ElemStatLearn/
@@ -41,12 +43,12 @@ Suggested Supplemental Books
 
 
 
-ML References
+### ML References
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/ 
 * https://github.com/kailashahirwar/cheatsheets-ai
 
 
-Tutorials / Online Courses
+### Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * https://gym.openai.com/
 * http://ciml.info/
@@ -59,7 +61,7 @@ Tutorials / Online Courses
 
 
 
-University Machine Learning Labs / Programs
+### University Machine Learning Labs / Programs
 * [MIT Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/) 
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)](http://priml.upenn.edu/Main/HomePage)
@@ -80,14 +82,14 @@ University Machine Learning Labs / Programs
 
 
 
-ML Software Resources
+### ML Software Resources
 * http://mloss.org/community/
 * http://nbviewer.jupyter.org/
 	* http://jupyter.readthedocs.io/en/latest/index.html
 * https://databricks.com/product/databricks
 
 
-Interesting Github ML Resources
+#### Interesting Github ML Resources
 * [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
 * https://github.com/dmlc/xgboost
 * https://github.com/tensorflow/tensorflow
@@ -97,8 +99,14 @@ Interesting Github ML Resources
 * https://github.com/h2oai/h2o-3
 
 
+### Interesting Github Repository Collections:
+* https://github.com/codertimo
+* https://github.com/waleedka
 
-Interesting Articles
+
+
+
+### Interesting Articles
 * 2017
   * [https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists](...universities are losing their best AI scientists)
 * 2016
@@ -117,7 +125,7 @@ Interesting Articles
 * http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html
 
 
-Interesting Researchers in ML
+### Interesting Researchers in ML
 * Tianqi Chen
   * http://homes.cs.washington.edu/~tqchen/
 * Ben Taskar (deceased, 2013)
@@ -127,6 +135,6 @@ Interesting Researchers in ML
   * https://twitter.com/_brohrer_
 
 
-AI/ML Focused Twitter Accounts
+### AI/ML Focused Twitter Accounts
 * https://twitter.com/shivon
 
