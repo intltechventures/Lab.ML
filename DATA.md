@@ -29,6 +29,12 @@ Useful ML Data Resources
 * http://nwb.org/nwb-neurophysiology/
 
 
+### NLP focused data
+* [SQuAD2.0 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+
+
+
+
 ### NSF/NIH
 CRCNS (Collaborative Research in Computational Neuroscience) is a joint program of NSF and NIH that supports integration of theoretical and experimental neuroscience through collaborative research projects.
 * http://crcns.org/NWB/Data_sets
