@@ -6,7 +6,9 @@ Interesting ML News Resources
 * https://medium.com/ai%C2%B3-theory-practice-business
 * http://www.shivonzilis.com/
 
+
 ### 2019
+* [2018-01-31](https://medium.com/thelaunchpad/your-deep-learning-tools-for-enterprises-startup-will-fail-94fb70683834)
 
 
 ### 2018
