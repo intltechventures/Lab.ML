@@ -7,4 +7,6 @@ Google AI/ML - Key People
   * http://vision.stanford.edu/lijiali/
 
 
-
+* Clemens Mewald, Product Lead on the Machine Learning X and TensorFlow X teams
+  * https://www.linkedin.com/in/clemensmewald/
+  * https://medium.com/@clemensm
