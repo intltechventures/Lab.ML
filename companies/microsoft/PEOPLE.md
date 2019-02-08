@@ -2,6 +2,10 @@
 Microsoft AI/ML - Key People
 ====
 
+* Harry Shum, Executive Vice President, Artificial Intelligence and Research Group
+  * https://news.microsoft.com/exec/harry-shum/
+  * https://en.wikipedia.org/wiki/Harry_Shum
+
 * Kevin Scott, CTO
   * https://www.linkedin.com/in/jkevinscott/
   * https://twitter.com/kevin_scott
