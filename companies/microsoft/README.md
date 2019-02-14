@@ -1,21 +1,30 @@
 
-
-
 Microsoft Machine Learning Resources
+====
+
+
+### References
 * https://blogs.technet.microsoft.com/machinelearning/
 
 
-Computational Network Toolkit (CNTK)
+### Computational Network Toolkit (CNTK)
 * http://www.cntk.ai/
 * https://github.com/Microsoft/CNTK
 * https://docs.microsoft.com/en-us/cognitive-toolkit/Examples
 
 
-Azure Resources
+### Azure Resources
 * https://azure.microsoft.com/en-us/services/data-lake-store/
 * https://azure.microsoft.com/en-us/search/marketplace/?q=r+server
+* Learning Paths:
+  * https://aischool.microsoft.com/en-us/machine-learning/learning-paths
+  * Azure Machine Learning How-to Guides
+    * https://aischool.microsoft.com/en-us/machine-learning/learning-paths/
 
-Related Articles
+
+
+
+### Related Articles
 * 2017
   * https://www.infoq.com/news/2017/09/Microsoft-AI-ML
   * https://blogs.technet.microsoft.com/machinelearning/2017/09/25/introducing-microsoft-machine-learning-server-9-2-release/
@@ -24,5 +33,9 @@ Related Articles
   * https://blogs.technet.microsoft.com/machinelearning/2016/10/31/applying-cloud-deep-learning-at-scale-with-microsoft-r-server-azure-data-lake/
 
 
-People
+
+### People
 * https://twitter.com/xdh
+* Adin Ermie 
+  * https://twitter.com/AdinErmie
+  * http://adinermie.com/
