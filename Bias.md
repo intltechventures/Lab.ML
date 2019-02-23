@@ -48,12 +48,39 @@ Machine Learning Bias Research/Resources
   * https://algorithmicfairness.wordpress.com/
   * https://twitter.com/geomblog
 
+* Vishnoi, Nisheeth
+  * Professor of CS@Yale 
+  * http://www.cs.yale.edu/homes/vishnoi/Home.html
+  * https://twitter.com/NisheethVishnoi
 
 
 ### Organizations
 * Human Rights Data Analysis Group
   * https://hrdag.org/
   * https://twitter.com/hrdag
+* Safety & Justice Challenge
+  * http://www.safetyandjusticechallenge.org/
+  * https://twitter.com/safety_justice
 
+
+
+### Articles to read, assess, sort, select
+* https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+  * https://www.documentcloud.org/documents/2840784-Practitioner-s-Guide-to-COMPAS-Core.html#document/p30/a296482
+  * https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say
+  * https://www.propublica.org/article/propublica-responds-to-companys-critique-of-machine-bias-story
+  * https://www.propublica.org/article/technical-response-to-northpointe
+  * https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
+
+* https://medium.com/thoughts-and-reflections/racial-bias-and-gender-bias-examples-in-ai-systems-7211e4c166a1
+
+* 1Algorithms, Platforms, and Ethnic Bias: An Integrative Essay
+  * https://kenney.faculty.ucdavis.edu/wp-content/uploads/sites/332/2018/09/Silva-Kenney-Algorithms-Platforms-and-Bias-9-8-18.pdf
+
+* PreTrial Risk Assessment Tools
+  * http://www.safetyandjusticechallenge.org/resource/pretrial-risk-assessment-tools-a-primer-for-judges-prosecutors-and-defense-attorneys/
+  * http://www.safetyandjusticechallenge.org/wp-content/uploads/2019/02/Pretrial-Risk-Assessment-Primer-February-2019.pdf
+
+* https://medium.com/mit-media-lab/the-algorithmic-justice-league-3cc4131c5148
 
 
