@@ -7,6 +7,11 @@ Microsoft Machine Learning Resources
 * https://blogs.technet.microsoft.com/machinelearning/
 
 
+### Educational Resources
+* https://www.microsoft.com/en-us/ai/ai-business-school
+
+
+
 ### Computational Network Toolkit (CNTK)
 * http://www.cntk.ai/
 * https://github.com/Microsoft/CNTK
