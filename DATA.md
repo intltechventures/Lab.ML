@@ -28,6 +28,14 @@ Useful ML Data Resources
 
 * http://nwb.org/nwb-neurophysiology/
 
+* https://webscope.sandbox.yahoo.com/#datasets
+
+
+
+### Image Data
+* [I3 - Yahoo Flickr Creative Commons 100M (14G) (Hosted on AWS)](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
+
+
 
 ### NLP focused data
 * [SQuAD2.0 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
