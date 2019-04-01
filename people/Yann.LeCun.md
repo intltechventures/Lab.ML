@@ -31,3 +31,8 @@ This document serves as a helpful mechanism to organize the collection of links 
 	* https://www.cs.nyu.edu/~yann/2010f-G22-2565-001/index.html
 	* https://www.cs.nyu.edu/~yann/2010f-G22-2565-001/schedule.html
 
+
+
+### News
+* 2019
+  * [Yann LeCun Receives Turing Award](https://www.discoverelement.com/blog/yann-lecun-receives-turing-award-3nSWZ0mmAGJJM92BlLBAMG)
