@@ -1,8 +1,7 @@
 
-Useful ML Data Resources
-====
+# Useful ML Data Resources
 
-### Resources
+## Resources
 * https://twitter.com/PyData
 * Microsoft
   * [Microsoft Sequential Image Narrative Dataset (SIND)](http://www.sind.ai/)
@@ -31,28 +30,33 @@ Useful ML Data Resources
 * https://webscope.sandbox.yahoo.com/#datasets
 
 
+## Financial Data Resources
+- https://www.quandl.com
+  + "The premier source for financial, economic, and alternative datasets, serving investment professionals. Quandl’s platform is used by over 400,000 people, including analysts from the world’s top hedge funds, asset managers and investment banks"
 
-### Image Data
+
+
+## Image Data
 * [I3 - Yahoo Flickr Creative Commons 100M (14G) (Hosted on AWS)](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
 
 
 
-### NLP focused data
+## NLP focused data
 * [SQuAD2.0 The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
 
 
 
 
-### NSF/NIH
+## NSF/NIH
 CRCNS (Collaborative Research in Computational Neuroscience) is a joint program of NSF and NIH that supports integration of theoretical and experimental neuroscience through collaborative research projects.
 * http://crcns.org/NWB/Data_sets
 
 
-### Data Exchange Formats
+## Data Exchange Formats
  * http://onnx.ai/
 
 
-### Medical Data
+## Medical Data
 * https://www.medicare.gov/download/downloaddb.asp
 * https://developer.cms.gov/
   * https://Data.CMS.gov
