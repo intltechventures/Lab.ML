@@ -33,7 +33,15 @@
 ## Financial Data Resources
 - https://www.quandl.com
   + "The premier source for financial, economic, and alternative datasets, serving investment professionals. Quandl’s platform is used by over 400,000 people, including analysts from the world’s top hedge funds, asset managers and investment banks"
-
+  + https://www.quandl.com/search
+  + https://www.quandl.com/alternative-data
+  + https://docs.quandl.com/
+  + https://www.quandl.com/resources
+  + https://status.quandl.com/
+  + https://www.quandl.com/tools/r
+  + https://www.quandl.com/tools/python
+  + https://www.quandl.com/tools/api
+  + https://www.quandl.com/search?filters=%5B%22Free%22%5D
 
 
 ## Image Data
