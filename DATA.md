@@ -44,8 +44,12 @@
 
 ## US Government Data Sources
 - https://www.bls.gov/data/
-
-
+  + https://www.bls.gov/developers/
+    * "The BLS Public Data API is currently available in two versions. Version"
+    * "2.0 requires registration and allows users to access more data more frequently. Users may add calculations and annual averages to requests, and series description information is available for many BLS surveys."
+    * "Version 1.0 is a more limited API that does not require registration and is open for public use."
+  + https://www.bls.gov/developers/api_sample_code.htm
+    
 
 ## Financial Data Resources
 - https://www.quandl.com
