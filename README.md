@@ -1,8 +1,7 @@
-Lab.ML
-====
+# Lab.ML
+(a repsitory that serves as my lab for exploring Machine Learning tools & algorithms)
 
-
-### ML News Sources
+## ML News Sources
 * http://www.kdnuggets.com
 * https://www.reddit.com/r/MachineLearning
 * [Neural Information Processing Systems Conference (NIPS) Proceedings](http://papers.nips.cc/)
@@ -13,15 +12,15 @@ Lab.ML
 
 
 
-### Consortiums
+## Consortiums
 * http://www.partnershiponai.org/
 
 
-### ML Conferences
+## ML Conferences
 * https://spark-summit.org/
 
 
-### Recommended ML Books
+## Recommended ML Books
 * Deep Learning, by Ian Goodfellow, et al
 	* http://www.deeplearningbook.org/
 	* https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618 
@@ -33,7 +32,7 @@ Lab.ML
 * http://www.intechopen.com/books/machine_learning
 
 
-### Suggested Supplemental Books
+## Suggested Supplemental Books
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
 * [Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
 * http://statweb.stanford.edu/~tibs/ElemStatLearn/
@@ -43,12 +42,12 @@ Lab.ML
 
 
 
-### ML References
+## ML References
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/ 
 * https://github.com/kailashahirwar/cheatsheets-ai
 
 
-### Tutorials / Online Courses
+## Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
 * https://gym.openai.com/
 * http://ciml.info/
@@ -61,7 +60,7 @@ Lab.ML
 
 
 
-### University Machine Learning Labs / Programs
+## University Machine Learning Labs / Programs
 * [MIT Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/) 
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)](http://priml.upenn.edu/Main/HomePage)
@@ -82,14 +81,14 @@ Lab.ML
 
 
 
-### ML Software Resources
+## ML Software Resources
 * http://mloss.org/community/
 * http://nbviewer.jupyter.org/
 	* http://jupyter.readthedocs.io/en/latest/index.html
 * https://databricks.com/product/databricks
 
 
-#### Interesting Github ML Resources
+## Interesting Github ML Resources
 * [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
 * https://github.com/dmlc/xgboost
 * https://github.com/tensorflow/tensorflow
@@ -99,16 +98,27 @@ Lab.ML
 * https://github.com/h2oai/h2o-3
 
 
-### Interesting Github Repository Collections:
+## Interesting Github Repository Collections:
 * https://github.com/codertimo
 * https://github.com/waleedka
 
 
 
 
-### Interesting Articles
+
+## Interesting Articles
+- ```TO-DO: Move/Merge this section to the NEWS.md```
+- 2019 
+  + [Viptul Patel, LinkedIn: The Ultimate guide to AI, Data Science & Machine Learning, Articles, Cheatsheets and Tutorials ALL in one place](https://www.linkedin.com/pulse/all-cheatsheets-one-place-vipul-patel/) 
+
+
+* 2018
+
+
 * 2017
   * [https://www.theguardian.com/science/2017/nov/01/cant-compete-universities-losing-best-ai-scientists](...universities are losing their best AI scientists)
+
+
 * 2016
   * [Google Deep Mind Moves to Tensor Flow](http://googleresearch.blogspot.co.nz/2016/04/deepmind-moves-to-tensorflow.html)
   * [HAKMEM - MIT AI Laboratory Memo No 239 Feb 29, 1972](http://www.inwap.com/pdp10/hbaker/hakmem/hakmem.html) 
@@ -116,6 +126,8 @@ Lab.ML
     * http://homes.cs.washington.edu/~tqchen/2016/03/10/story-and-lessons-behind-the-evolution-of-xgboost.html 
   * [Detrimental Point Processes, Alex Kulesza & Ben Traskar](http://homes.cs.washington.edu/~taskar/pubs/dpp_tut.pdf)
   * [ImageNet Classification with Deep Convolutional Natural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks)
+
+
 * 2015
   * [Difference between Machine Learning & Statistical Modeling](http://www.analyticsvidhya.com/blog/2015/07/difference-machine-learning-statistical-modeling/)
   * [databricks: The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html) - 2016 (move up)
@@ -125,7 +137,7 @@ Lab.ML
 * http://blog.revolutionanalytics.com/2016/08/deep-learning-part-1.html
 
 
-### Interesting Researchers in ML
+## Interesting Researchers in ML
 * Tianqi Chen
   * http://homes.cs.washington.edu/~tqchen/
 * Ben Taskar (deceased, 2013)
@@ -135,6 +147,6 @@ Lab.ML
   * https://twitter.com/_brohrer_
 
 
-### AI/ML Focused Twitter Accounts
+## AI/ML Focused Twitter Accounts
 * https://twitter.com/shivon
 
