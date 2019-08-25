@@ -1,6 +1,7 @@
 
 # Glossary for Machine Learning / Deep Learning / Artificial Intelligence
 
+
 |__Term__   | __Definition__ |
 |-----------|------------|
 AGD         | Accelerated Gradient Descent
@@ -12,3 +13,9 @@ NGD         | Noisy Gradient Descent
 SGD         | Stochastic Gradient Descent
 SOSP        | Second Order Stationary Points 
 TV			| Total variation
+
+
+
+# Other Resources
+- Google Machine Learning Glossary
+  + https://developers.google.com/machine-learning/glossary/
