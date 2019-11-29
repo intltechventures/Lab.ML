@@ -22,16 +22,36 @@
 
 
 ## AI-related Twitter Accounts to follow
+- News Sources
+  + https://twitter.com/DataScienceCtrl
+  + https://twitter.com/machinelearnflx
+
 - Technologies
+  + https://twitter.com/fastdotai
   + https://twitter.com/PyTorch
   + https://twitter.com/tensorflow
+  + https://twitter.com/NvidiaAI
+  + https://twitter.com/NVIDIAAIDev
+  + https://twitter.com/h2oai
 
-- Organizations
+
+- Educational/Research Organizations
   + https://twitter.com/a2i_oxford
+  + https://twitter.com/allen_ai
+  + https://huggingface.co/
+  + https://twitter.com/huggingface
 
-- People
+- Interesting People
   + https://twitter.com/lexfridman
-
+  + https://twitter.com/jm_alexia
+  + https://twitter.com/FidlerSanja
+  + https://twitter.com/MRoberti
+  + https://twitter.com/julien_c
+  + https://twitter.com/jalammar
+  + https://twitter.com/SanhEstPasMoi
+  + https://twitter.com/mediumnok
+  + https://twitter.com/valtterinpoika
+  + https://twitter.com/abhi1thakur
 
 
 

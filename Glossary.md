@@ -6,12 +6,18 @@
 |-----------|------------|
 AGD         | Accelerated Gradient Descent
 FOSP        | First Order Stationary Points 
+GANs        | Generative adversarial networks
 GD          | Gradient Descent
 GL 			| Group LASSO
+IPMs        | Integral Probability Metrics 
+MMCs        | maximum-margin classifiers 
 OLS			| Ordinary Least Squares
 NGD         | Noisy Gradient Descent
+Ra          | Relativistic average (re: GANs)
+Rp          | Relativistic paired (re: GANs)
 SGD         | Stochastic Gradient Descent
 SOSP        | Second Order Stationary Points 
+SVMs        | Support Vector Machines
 TV			| Total variation
 
 

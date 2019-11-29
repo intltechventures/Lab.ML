@@ -15,6 +15,8 @@
 
 - [The Penn Treebank Project](https://www.cis.upenn.edu/~treebank/)
 
+- https://nlp.stanford.edu/sentiment/index.html
+
 - https://data.world/
 
 - https://waterdata.usgs.gov/nwis
@@ -68,6 +70,10 @@
 ## Image Data
 - [I3 - Yahoo Flickr Creative Commons 100M (14G) (Hosted on AWS)](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
 
+
+
+## Video Data
+- [Creative Flow+ Dataset](https://www.cs.toronto.edu/creativeflow/)
 
 
 ## NLP focused data
