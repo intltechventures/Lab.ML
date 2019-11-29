@@ -17,6 +17,11 @@
 
 - https://nlp.stanford.edu/sentiment/index.html
 
+- https://dbarnes.github.io/radar-robotcar-dataset/
+  + "The Oxford Radar RobotCar Dataset is a radar extension to The Oxford RobotCar Dataset. We provide data from a Navtech CTS350-X Millimetre-Wave FMCW radar and Dual Velodyne HDL-32E LIDARs with optimised ground truth radar odometry for 280 km of driving around Oxford, UK (in addition to all sensors in the original Oxford RobotCar Dataset)."
+  + "Our radar is a Navtech CTS350-X Millimetre-Wave Frequency-Modulated Continuous-Wave (FMCW) scanning radar and in the configuration used provides 4.38 cm in range resolution and 0.9 degrees in rotation resolution with a range up to 163 m, all whilst providing robustness to weather conditions that may trouble other sensor modalities."
+  + "This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License and is intended for non-commercial academic use."
+
 - https://data.world/
 
 - https://waterdata.usgs.gov/nwis
