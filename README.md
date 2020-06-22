@@ -3,11 +3,17 @@
 
 ## ML News Sources
 * http://www.kdnuggets.com
+
 * https://www.reddit.com/r/MachineLearning
+
 * [Neural Information Processing Systems Conference (NIPS) Proceedings](http://papers.nips.cc/)
+
 * http://www.analyticsvidhya.com/ 
+
 * http://googleresearch.blogspot.com
+
 * http://blog.revolutionanalytics.com/
+
 * http://www.datasciencecentral.com/
 
 
@@ -25,17 +31,26 @@
 	* http://www.deeplearningbook.org/
 	* https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618 
     * https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
-* [Artificial Intelligence, A Modern Approach, THird Edition, Stuart Russell and Pter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597/)
+
+* [Artificial Intelligence, A Modern Approach, Fourth Edition, Stuart Russell and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Approach-Pearson-Artifical/dp/0134610997/)
+  + http://aima.cs.berkeley.edu/
+
 * [Recommender Systems, by Aggaral, Charu C.](http://www.springer.com/gp/book/9783319296579)
+
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
+
 * http://www.gaussianprocess.org/gpml/chapters/
+
 * http://www.intechopen.com/books/machine_learning
 
 
 ## Suggested Supplemental Books
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
+
 * [Introduction to Algorithms, Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/)
+
 * http://statweb.stanford.edu/~tibs/ElemStatLearn/
+
 * [Probabilistic Programming and Bayesian methods for Hackers](http://nbviewer.jupyter.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
 	* https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 	* https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers 
@@ -44,24 +59,43 @@
 
 ## ML References
 * http://scikit-learn.org/stable/tutorial/machine_learning_map/ 
+
 * https://github.com/kailashahirwar/cheatsheets-ai
 
 
 ## Tutorials / Online Courses
 * [Artificial Intelligence, MIT Open Courseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/)
+
 * https://gym.openai.com/
+
 * http://ciml.info/
+
 * Machine Learning for Developers
   * http://linkis.com/xyclade.github.io/DyY93
+
 * https://www.aiworkbox.com/lessons
+
 * https://www.hackerearth.com/practice/machine-learning/ 
+
 * https://www.kaggle.com/kernels
+
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
+
+- AI For Medicine (3-course specialization
+  + https://www.deeplearning.ai/ai-for-medicine/
+
+
+
+## YouTube Videos
+- [DeepLearning.ai Channel](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/)
+  - For example:
+    * [Pie & AI: Real-world AI Applications in Medicine](https://www.youtube.com/watch?v=Rp7qqjlBeRY)
 
 
 
 ## University Machine Learning Labs / Programs
 * [MIT Computer Science and Artificial Intelligence Laboratory](http://www.csail.mit.edu/) 
+
 * http://www.cis.upenn.edu 
 	* [Penn Research in Machine Learning (PRiML)](http://priml.upenn.edu/Main/HomePage)
 		* http://priml.upenn.edu/Main/Resources
@@ -76,30 +110,41 @@
 
 * [Stanford Artificial Intelligence Laboratory](http://ai.standford.edu)
 	* [Probabilistic Graphical Models](http://pgm.stanford.edu/)
+
 * [UC Berkeley amplab](https://amplab.cs.berkeley.edu/)
+
 * https://cs94si.wordpress.com/syllabus/
 
 
 
 ## ML Software Resources
 * http://mloss.org/community/
+
 * http://nbviewer.jupyter.org/
 	* http://jupyter.readthedocs.io/en/latest/index.html
+
 * https://databricks.com/product/databricks
 
 
 ## Interesting Github ML Resources
 * [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
+
 * https://github.com/dmlc/xgboost
+
 * https://github.com/tensorflow/tensorflow
+
 * https://github.com/apache/incubator-singa
-	* [Apache Singa - A General Distributed Deep Learning Platform](http://singa.apache.org)
+
+* [Apache Singa - A General Distributed Deep Learning Platform](http://singa.apache.org)
+
 * https://github.com/fchollet/keras
+
 * https://github.com/h2oai/h2o-3
 
 
 ## Interesting Github Repository Collections:
 * https://github.com/codertimo
+
 * https://github.com/waleedka
 
 
