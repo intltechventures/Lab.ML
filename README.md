@@ -35,6 +35,9 @@
 * [Artificial Intelligence, A Modern Approach, Fourth Edition, Stuart Russell and Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Approach-Pearson-Artifical/dp/0134610997/)
   + http://aima.cs.berkeley.edu/
 
+- [Deep Learning Illustrated: A Visual, Interactive Guide to Artificial Intelligence (Addison-Wesley Data & Analytics Series) 1st Edition](https://www.amazon.com/Deep-Learning-Illustrated-Intelligence-Addison-Wesley/dp/0135116694)
+
+
 * [Recommender Systems, by Aggaral, Charu C.](http://www.springer.com/gp/book/9783319296579)
 
 * http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
