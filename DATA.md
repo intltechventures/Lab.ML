@@ -58,6 +58,13 @@
   + https://www.bls.gov/developers/api_sample_code.htm
     
 
+- http://congressionalbills.org/about.html
+  + The Congressional Bills Project is a relational database of over 400,000 public and private bills introduced in the U.S. House and Senate since 1947. The dataset is primarily intended for use scholars and students of legislative politics. 
+  + Trained human coders assign a primary topic (one of 19 major and one of 224 subtopics) to each bill based on their readings of either the short description or the title of the bill. Intercoder reliability across the 225 subtopics is very high. Intercoder disagreements can indicate coding errors, but we have found that most of them reflect legitimate disagreements about a bill's primary topic. For example, a bill proposing a health care program for children of illegal immigrants might be arguably coded as an immigration issue (530) or as a child health issue (332). 
+  + http://congressionalbills.org/download.html
+
+
+
 ## Financial Data Resources
 - https://www.quandl.com
   + "The premier source for financial, economic, and alternative datasets, serving investment professionals. Quandl’s platform is used by over 400,000 people, including analysts from the world’s top hedge funds, asset managers and investment banks"
