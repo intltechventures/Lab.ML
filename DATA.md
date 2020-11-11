@@ -78,6 +78,13 @@
   + https://www.quandl.com/tools/api
   + https://www.quandl.com/search?filters=%5B%22Free%22%5D
 
+## Restaurant Data
+
+- http://menus.nypl.org/
+  + http://menus.nypl.org/menus
+  + http://nypl.github.io/menus-api/
+  + "With approximately 45,000 menus dating from the 1840s to the present, The New York Public Library’s restaurant menu collection is one of the largest in the world, used by historians, chefs, novelists and everyday food enthusiasts."
+
 
 ## Image Data
 - [I3 - Yahoo Flickr Creative Commons 100M (14G) (Hosted on AWS)](https://webscope.sandbox.yahoo.com/catalog.php?datatype=i&did=67)
