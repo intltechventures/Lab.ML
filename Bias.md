@@ -81,16 +81,24 @@
 
 
 ## Organizations
-* Human Rights Data Analysis Group
-  * https://hrdag.org/
-  * https://twitter.com/hrdag
-* Safety & Justice Challenge
-  * http://www.safetyandjusticechallenge.org/
-  * https://twitter.com/safety_justice
+
+- Algorithm Watch
+  + https://algorithmwatch.org/en/
+
+  
+- Human Rights Data Analysis Group
+  + https://hrdag.org/
+  + https://twitter.com/hrdag
+
+
+- Safety & Justice Challenge
+  + http://www.safetyandjusticechallenge.org/
+  + https://twitter.com/safety_justice
 
 
 
 ## Articles to read, assess, sort, select
+
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
   * https://www.documentcloud.org/documents/2840784-Practitioner-s-Guide-to-COMPAS-Core.html#document/p30/a296482
   * https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say
