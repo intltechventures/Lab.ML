@@ -1,17 +1,42 @@
 
-Machine Learning Bias Research/Resources
-====
+# Machine Learning Bias Research/Resources
+
+
+## References
 
 
 
 
-### Books
+## Books
 * Algorithms of Oppression: How Search Engines Reinforce Racism](https://www.amazon.com/Algorithms-Oppression-Search-Engines-Reinforce/dp/1479837245)
 
 
 
-### News
-* 2019
+## Github Resources
+
+- https://github.com/linkedin/LiFT
+  + "The LinkedIn Fairness Toolkit (LiFT) is a Scala/Spark library that enables the measurement of fairness in large
+    scale machine learning workflows."
+  + See 2021 LinkedIn announcement article, below.
+
+
+
+
+## Articles
+
+### 2021
+
+- 2021-05-14 Image classification algorithms at Apple, Google still push racist tropes
+  + https://algorithmwatch.org/en/apple-google-computer-vision-racist/
+
+- LinkedIn open-sources toolkit to measure AI model fairness
+  + https://venturebeat.com/2020/08/25/linkedin-open-sources-toolkit-to-measure-ai-model-fairness/
+    * "designed to enable the measurement of fairness in AI and machine learning workflows. The company says LiFT can be
+      deployed during training and scoring to measure biases in training data sets, and to evaluate notions of fairness
+      for models while detecting differences in their performance across subgroups."
+        
+
+###  2019
   * [2019-01-23 An MIT researcher who analyzed facial recognition software found eliminating bias in AI is a matter of priorities](https://www.businessinsider.com/biases-ethics-facial-recognition-ai-mit-joy-buolamwini-2019-1)
     * https://www.ajlunited.org/
     * https://www.nytimes.com/2018/06/21/opinion/facial-analysis-technology-bias.html
@@ -19,12 +44,13 @@ Machine Learning Bias Research/Resources
   * [NPR NewsHour: Artificial intelligence can be biased against certain people (video)](https://twitter.com/NewsHour/status/1098230794877689856)
 
 
-* 2018
+### 2018
   * [2018-09-06 IBM Used NYPD Surveillance Footage to Develop Technology That Lets Police Search by Skin Color](https://theintercept.com/2018/09/06/nypd-surveillance-camera-skin-tone-search/)
 
 
 
-### Researchers
+
+## Researchers
 * Ball, Patrick
   * Human Rights Data Analysis Group (HRDAG)
   * https://hrdag.org/
@@ -54,7 +80,7 @@ Machine Learning Bias Research/Resources
   * https://twitter.com/NisheethVishnoi
 
 
-### Organizations
+## Organizations
 * Human Rights Data Analysis Group
   * https://hrdag.org/
   * https://twitter.com/hrdag
@@ -64,7 +90,7 @@ Machine Learning Bias Research/Resources
 
 
 
-### Articles to read, assess, sort, select
+## Articles to read, assess, sort, select
 * https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
   * https://www.documentcloud.org/documents/2840784-Practitioner-s-Guide-to-COMPAS-Core.html#document/p30/a296482
   * https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say
