@@ -64,6 +64,13 @@
   + http://congressionalbills.org/download.html
 
 
+## EU Data Sources
+
+- The official portal for European data
+  + https://data.europa.eu/en
+    * https://data.europa.eu/data/datasets
+
+
 
 ## Financial Data Resources
 - https://www.quandl.com
